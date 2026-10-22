@@ -1,0 +1,6 @@
+{
+  "name": "Project YOGA CAD & Manufacturing",
+  "description": "Offline 2D-to-3D aluminum profile extrusion customizer, structural assembly designer, real-time inventory validator, and BOM cost calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
